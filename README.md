@@ -1,6 +1,6 @@
-/Users/seominjae/anaconda3/envs/pythonProject1/bin/python /Users/seominjae/PycharmProjects/pythonProject1/main.py
 ### Korean Population by Region
 * Total population: 51669716
+
 | Region | Population | Ratio (%) |
 | ------ | ---------- | --------- |
 | Seoul | 9550227 | 18.5 |
@@ -23,6 +23,7 @@
 
 ### Korean COVID-19 New Cases by Region
 * Total new cases: 1714
+
 | Region | New Cases | Ratio (%) | New Cases / 1M |
 | ------ | --------- | --------  | -------------- |
 | Seoul | 644 | 37.6 | 67.4 
@@ -42,7 +43,3 @@
 | Ulsan | 20 | 1.2 | 17.8 
 | Jeju | 5 | 0.3 | 7.4 
 | Sejong | 4 | 0.2 | 10.9 
-
-
-Process finished with exit code 0
-
