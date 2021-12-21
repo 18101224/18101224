@@ -24,7 +24,7 @@
         <!--nav-->
         <nav>
             <ul>
-                <li id=#data>데이터 가공 과정</li>
+                <li href=#data>데이터 가공 과정</li>
                 <li id=#linepitting>라인피팅과 머신러닝으로 예측하는 확진자 수</li>
                 <li id=#deathRate>사망률 추이</li>
                 <li id=#deathRateByVaccine>백신과 사망률의 관계</li>
